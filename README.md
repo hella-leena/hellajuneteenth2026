@@ -1,5 +1,4 @@
-# HJ26 (Codex) (React + Vite)
-
+# HJ26 
 ## Run
 
 ```bash
